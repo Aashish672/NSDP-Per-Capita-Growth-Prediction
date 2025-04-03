@@ -23,3 +23,6 @@ Ensure you have the following installed on your system
 ### Outcomes:
 - Insightful data visualizations of historical and projected economic growth.
 - A predictive model that estimates NSDP per capita for future years
+
+## Project Repository Link
+https://github.com/Aashish672/NSDP-Per-Capita-Growth-Prediction
